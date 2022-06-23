@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "954012633833",
+    "project_id": "tpqpknr",
+    "storage_bucket": "tpqpknr.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:954012633833:android:7ecdaf86dc6c16fd42fe78",
+        "android_client_info": {
+          "package_name": "com.mrhi2022.tpquickplaceforkakaoknr"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "954012633833-ln1f3otmijlf17lvafn7vc7u9218njeu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCNmeuFjVDISWVmtMBCc_Jh3JjO_Hn4pJI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "954012633833-ln1f3otmijlf17lvafn7vc7u9218njeu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
